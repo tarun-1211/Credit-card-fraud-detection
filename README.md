@@ -25,3 +25,7 @@ Accuracy Score
 Understanding class imbalance in fraud detection
 Application of Logistic Regression for binary classification
 Importance of evaluation metrics beyond accuracy in imbalanced datasets
+
+# Dataset link
+unable to upload it as its massive
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
